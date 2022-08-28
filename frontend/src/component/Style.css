@@ -1,0 +1,36 @@
+#img1  {
+    height: 300px;
+    width: 100%;
+}
+
+
+#img2  {
+    height: 300px;
+    width: 100%;
+}
+#img3  {
+    height: 300px;
+    width: 100%;
+}
+
+#footer{
+ position:fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/ 
+            height: 90px;
+            background: grey;
+
+
+}
+
+.container{
+    background-color:antiquewhite;
+    border: 10px;
+}
+
+
+
+
+
