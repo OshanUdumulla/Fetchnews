@@ -81,8 +81,7 @@ export default function Home() {
 
       <h3>
         <div className="container">
-          <p1 style={{ color: "red" }}>ljkhkllkljldfsdfsdfsdfvcbvcbbbbbbbbbbbbbbbbbbbbbbb
-          bvcbbbbbbbbbbbbbbbb</p1>
+          <p1 style={{ color: "red" }}> </p1>
         </div>
       </h3>
     </div>

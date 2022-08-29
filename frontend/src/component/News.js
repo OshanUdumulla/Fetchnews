@@ -34,7 +34,7 @@ const[loading,setloading] =useState(false)
 
   return (
     <div>
-      <h1>Hellow this is News Headlines</h1>
+      <h1>Welcome to the Tech News Headlines</h1>
 
       {loading ? <h2>loading...</h2> : ""}
       <form onSubmit={Handlesubmit}>
